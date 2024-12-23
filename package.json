@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "wp-scripts build",
+    "start": "wp-scripts start"
+  },
+  "devDependencies": {
+    "@wordpress/scripts": "^30.7.0",
+    "path": "^0.12.7",
+    "webpack-remove-empty-scripts": "^1.0.4"
+  }
+}
